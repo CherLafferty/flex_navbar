@@ -1,0 +1,32 @@
+.nav {
+    background-color:rgba(0, 0, 0, 0.726);
+    color: white;
+    height: 50px;
+    font-family: sans-serif;
+    padding: 10px;
+}
+.flex {
+    display: flex;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.align-center {
+    align-items:center;
+}
+.nav-links {
+    width: 40%;
+}
+.btn {
+    padding: 10px 10px 10px 10px;
+    font-weight:bold;
+    color: white;
+    background-color: rgb(32, 149, 178);
+    border-color: black;
+}
+a {
+    color:white;
+}
+li {
+    list-style-type: none;
+}
